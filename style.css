@@ -29,6 +29,7 @@ body {
 }
 
 #modal {
+    display: none;
     position: fixed;
     background: rgba(5, 5, 5, 0.6);
     height: 100vh;
